@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">RxProject</string>
+
+    <!-- Text for the button to request data from api -->
+    <string name="request_data_button">Request Data</string>
+
+    <!-- Text for the button to save data into database -->
+    <string name="save_data_button">Save Data</string>
+
+    <!-- Text for the button to request data from api -->
+    <string name="display_data_button">Display Data</string>
+
+    <!-- Text for the LOG message when the data from api saved into the database -->
+    <string name="data_saved">The data has been saved into the database</string>
+
+    <!-- Text for the LOG message when loading data from the database-->
+    <string name="loading_data">Loading data from the database</string>
+
+    <!-- Title text for the empty view, which describes the empty box house image [CHAR LIMIT=50] -->
+    <string name="empty_view_title_text">It\'s a bit lonely here...</string>
+
+    <!-- Subtitle text for the empty view that prompts the user to send a request [CHAR LIMIT=50] -->
+    <string name="empty_view_subtitle_text">Get started by requesting data</string>
+
+</resources>
